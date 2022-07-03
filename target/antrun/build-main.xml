@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<project name="maven-antrun-" default="main"  >
-<target name="main">
-  <copy todir="/Users/rishiselvakumaran/Desktop/Projects/Springboot Projects/Employee_mgmt/EmployeeMgmtApp/target/classes/public">
-    <fileset dir="/Users/rishiselvakumaran/Desktop/Projects/Springboot Projects/Employee_mgmt/EmployeeMgmtApp/frontend/build"/>
-  </copy>
-</target>
-</project>
